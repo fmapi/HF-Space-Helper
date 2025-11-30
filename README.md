@@ -2022,3 +2022,4 @@
 | [2025-11-30](https://github.com/fmapi/HF-Space-Helper/commits/1dd7ce9ae8f7d75327693deaab13ce9a39b79c45/docs/index.html) |  |
 | [2025-11-30](https://github.com/fmapi/HF-Space-Helper/commits/edd0482b9bffc267cdf1e9dd8a631f9d584a8914/docs/index.html) |  |
 | [2025-11-30](https://github.com/fmapi/HF-Space-Helper/commits/8d9f79646ba136f3a50614f016d3c70ddc3592fa/docs/index.html) |  |
+| [2025-12-01](https://github.com/fmapi/HF-Space-Helper/commits/69ccab50d53a63b61268c8f5c82a87e3888cd77c/docs/index.html) |  |
