@@ -3082,3 +3082,4 @@
 | [2026-05-27](https://github.com/fmapi/HF-Space-Helper/commits/d9065743fde82e0c000271e849db0d4237230ce5/docs/index.html) |  |
 | [2026-05-27](https://github.com/fmapi/HF-Space-Helper/commits/6c878f45999d692b720e91ee7cf3283265e634bf/docs/index.html) |  |
 | [2026-05-27](https://github.com/fmapi/HF-Space-Helper/commits/243ea4945d7466b4758f0640e1b7a334ea18168b/docs/index.html) |  |
+| [2026-05-28](https://github.com/fmapi/HF-Space-Helper/commits/f8fc53717196232eeb8fcfe1ef4d8b4f3a2eb1bd/docs/index.html) |  |
